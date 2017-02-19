@@ -1,0 +1,95 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-02-12 21:09+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. parent_slug
+#. page_title
+#. Name of the plugin
+#: admin/class-mz-like-post-admin.php:108
+#: admin/class-mz-like-post-admin.php:109
+msgid "MZ Like Post"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:137
+msgid "MZ Like Post Settings"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:145
+msgid "Post Types"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:151
+msgid "Like button will be added only to the selected post types"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:157
+msgid "Add Like Button"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:163
+msgid "Adds Like button to the content, if checked"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:169
+msgid "Text for Like button"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:175
+msgid "Like"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:181
+msgid "Text for Liked button"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:187
+#: includes/class-mz-like-post-activator.php:35
+msgid "Liked"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:193
+msgid "Text for liked post link"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:199
+msgid "Liked. Click to see all liked posts"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:205
+msgid "Text when no posts are liked"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:211
+msgid "There are no liked post(s)"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:216
+msgid "Text when user is not logged in"
+msgstr ""
+
+#: admin/class-mz-like-post-admin.php:222
+msgid "You must be logged in to like this post. Please Logg in!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/milosaiki"
+msgstr ""
+
+#. Author of the plugin
+msgid "Milos Zivic"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rs.linkedin.com/in/milos-zivic-2586a174"
+msgstr ""

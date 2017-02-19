@@ -1,0 +1,67 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.edit-link {
+    display: none;
+}
+
+/**
+ * Like/Liked button stlye
+ */
+
+a.mzlp-btn{
+	box-shadow: none !important;
+}
+.mzlp-text{
+	border: none;
+	text-align: center;
+	background: #1ba7d0;
+	box-shadow: 3px 4px 3px 1px #ababab;
+	display: inline-block;
+	width: 60px;
+	transition: all 0.7s linear;
+	color: #e7e7e7;
+	font-size: 0.8em;
+}
+.mzlp-text:hover{
+	background: #0375cc;
+	color: #eaeaea;
+	border-radius: 10px;
+}
+
+/**
+ * Notification link 
+ */
+.notification{
+	margin-top: 20px;
+}
+a.notification-link{
+	box-shadow:none !important;
+	font-size: 0.8em;
+}
+a.notification-link:hover{
+	font-style: italic;
+}
+
+a.notification-link {
+	display: inline-block;
+	position: relative;
+	padding-bottom: 3px;
+}
+a.notification-link:after {
+	content: '';
+	display: block;
+	margin: auto;
+	height: 3px;
+	width: 0px;
+	background: transparent;
+	transition: width .5s ease, background-color .5s ease;
+
+}
+a.notification-link:hover:after {
+	width: 100%;
+	background: #6eb1c5;
+	
+}
+
